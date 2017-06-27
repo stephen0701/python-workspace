@@ -1,2 +1,2 @@
 # python-workspace
-personal work of python
+### My Python personal work, which is basically related to Data Science and Machine Learning
