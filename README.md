@@ -1,4 +1,4 @@
-# python-workspace
+# My Python workspace
 ### My Python personal work, which is basically related to Data Science and Machine Learning
 
 - Basic Tensorflow Project - Use Tensorflow Contrib.learn module and a DNN classifier to verify the authentication of the banks notes
